@@ -1,0 +1,6 @@
+.direnv
+.jj
+.cache
+.vscode
+build
+result
